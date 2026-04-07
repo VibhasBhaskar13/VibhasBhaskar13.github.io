@@ -1,14 +1,8 @@
-## Developer Portfolio Landing Page Template
-
-### ⚠️ Project Discontinued ⚠️
-
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
-
----
+## Vibhas Bhaskar
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Hi! My name is Vibhas Bhaskar and I am a developer with experience in machine learning, full-stack app development, competitive programming. I am proficient in Python (including many libraries), Java, and C++ with experience in C#, Dart (and the Flutter and React framework), JavaScript, TypeScript, SQL, and R. I am always happy to learn skills and languages and never back down from a challenge.
 
 ### Installation
 
