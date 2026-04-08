@@ -14,8 +14,8 @@
 
 ---
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wharton Data Science Competition](https://wsb.wharton.upenn.edu/wharton-data-competition/)
+<img src="images/NeuralNetNinjas.png?raw=true"/>
 
 ---
 
