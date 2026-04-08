@@ -9,7 +9,7 @@
 
 ---
 
-[StockWeeklyPerformancePredictor](/pdf/sample_presentation.pdf)
+[StockWeeklyPerformancePredictor](https://github.com/VibhasBhaskar13/StockWeeklyPerformancePredictor)
 <img src="images/StockPredictorGraph.png?raw=true"/>
 
 ---
@@ -19,9 +19,9 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
-- [Project 1 Title](http://example.com/)
+- [EduShare](https://www.youtube.com/watch?v=L9WeJtize48)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
