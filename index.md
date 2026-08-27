@@ -4,11 +4,6 @@
 
 ### Machine Learning Projects
 
-[WikiWordPredictor](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 [StockWeeklyPerformancePredictor](https://github.com/VibhasBhaskar13/StockWeeklyPerformancePredictor)
 <img src="images/StockPredictorGraph.png?raw=true"/>
 
@@ -19,10 +14,15 @@
 
 ---
 
+[WikiWordPredictor](/sample_page)
+<img src="images/wikipedia_word_predictor_pipeline.png"/>
+
+---
+
 ### Other Projects
 
 - [EduShare](https://www.youtube.com/watch?v=L9WeJtize48)
-- [Project 2 Title](http://example.com/)
+- [errorCoach](https://pypi.org/project/errorCoach/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
